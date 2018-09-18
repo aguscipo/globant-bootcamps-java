@@ -1,0 +1,1 @@
+All patterns can be try running the class Demo.java (except in exercise 2 it calls AbstractFactoryPatternDemo.java)
