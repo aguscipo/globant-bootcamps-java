@@ -1,6 +1,7 @@
 ﻿# Globant Java Bootcamp 2018
 ## Spring - REST - Git - Maven - Testing - RDB
 
+
 ![Globant](assets/globant.jpg)
 
 ## __IMPORTANT DISCLAIMER__
@@ -1126,3 +1127,8 @@ Giorgio Tosti (giorger87)
 Agustin Cipollone (aguscipo)
 
 Nicolás Fernandez (Nico996)
+
+Group 1:
+
+Claudio Raverta (claudiorave)
+
