@@ -2,7 +2,7 @@ Step by step exercise 1 topic 4 (Spring):
 
 1)I created an Spring boot app with Spring Initializr, adding web dependency.
 
-2)I followed this guide to create a "Hello World" app RESTful web service with Spring
+2)I followed this guide https://spring.io/guides/gs/rest-service/ to create a "Hello World" app RESTful web service with Spring
 
 3)I run the app with mvnw spring-boot:run
 
