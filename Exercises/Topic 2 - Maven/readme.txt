@@ -4,7 +4,7 @@ Exercise 2 --> Demo.java is a classs with a method isgreater(num1, num2) that re
 Pom.xml is configurated to skip tests.
 
 
-Exercise 3 and 4 --> To package app I used mvn package (editing the pom.xml depending on the type).I put the generated files (jar and war) on their respective folders (exercise 3 and 4). 
+Exercise 3 and 4 --> To package app I used mvn package (editing the pom.xml depending on the type).I put the generated files (jar and war) on the Topic2-Maven folder.
 
 
 Also I added to .gitignore the folders of the project I wanted to ignore (like \target).
