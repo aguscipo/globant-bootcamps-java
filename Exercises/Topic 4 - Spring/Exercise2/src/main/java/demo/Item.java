@@ -1,17 +1,23 @@
 package demo;
 
 public class Item {
-    private final long id;
-    private final String name;
-    private final int price;
+    private  long id;
+    private  String name;
+    private  int price;
 
-    public Item(long id, String name, int price) {
+    public Item() {
+
+		// TODO Auto-generated constructor stub
+	}
+
+	public Item(long id, String name, int price) {
         this.id = id;
         this.name = name;
         this.price = price;
     }
 
-    public long getId() {
+
+	public long getId() {
         return id;
     }
 
